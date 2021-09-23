@@ -1,0 +1,23 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/guojunlong/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_nsd-1.2.0/android/src/main/AndroidManifest.xml:18:1-22:12
+INJECTED from /Users/guojunlong/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_nsd-1.2.0/android/src/main/AndroidManifest.xml:18:1-22:12
+INJECTED from /Users/guojunlong/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_nsd-1.2.0/android/src/main/AndroidManifest.xml:18:1-22:12
+	package
+		ADDED from /Users/guojunlong/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_nsd-1.2.0/android/src/main/AndroidManifest.xml:19:3-39
+		INJECTED from /Users/guojunlong/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_nsd-1.2.0/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/guojunlong/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_nsd-1.2.0/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/guojunlong/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_nsd-1.2.0/android/src/main/AndroidManifest.xml:18:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/guojunlong/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_nsd-1.2.0/android/src/main/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /Users/guojunlong/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_nsd-1.2.0/android/src/main/AndroidManifest.xml:20:22-64
+uses-sdk
+INJECTED from /Users/guojunlong/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_nsd-1.2.0/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/guojunlong/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_nsd-1.2.0/android/src/main/AndroidManifest.xml
+INJECTED from /Users/guojunlong/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_nsd-1.2.0/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/guojunlong/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_nsd-1.2.0/android/src/main/AndroidManifest.xml
+		ADDED from /Users/guojunlong/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_nsd-1.2.0/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/guojunlong/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_nsd-1.2.0/android/src/main/AndroidManifest.xml

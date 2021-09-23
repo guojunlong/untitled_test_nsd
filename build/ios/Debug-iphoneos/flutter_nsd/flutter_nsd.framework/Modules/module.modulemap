@@ -1,0 +1,11 @@
+framework module flutter_nsd {
+  umbrella header "flutter_nsd-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module flutter_nsd.Swift {
+    header "flutter_nsd-Swift.h"
+    requires objc
+}
