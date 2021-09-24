@@ -1,0 +1,2 @@
+com/nimroddayan/flutternsd/BuildConfig.java
+ com.nimroddayan.flutternsd.BuildConfig
